@@ -20,4 +20,4 @@ def get_vowels(*args):
     return result  
 
 
-print(get_vowels("iaragi", "asanti"))  #
+print(get_vowels("iaragi", "asanti"))  
